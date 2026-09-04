@@ -153,10 +153,10 @@
     "mirrorUrl": "https://isimon3.lanzn.com/ilfBb46g21di"
   },
   {
-    "id": "GenP",
-    "name": "GenP v4.2.1",
+    "id": "Adobe GenP",
+    "name": "Adobe GenP",
     "category": "激活工具",
-    "description": "原版Adobe系列软件免费激活工具。",
+    "description": "Adobe系列软件免费激活工具，版本v4.2.1。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/GenP.ico",
     "downloadUrl": "https://github.com/TheMythologist/GenP/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/ioxQy46mi09a"
