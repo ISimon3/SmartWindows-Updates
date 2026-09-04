@@ -164,10 +164,28 @@
   {
     "id": "nppInstaller",
     "name": "Notepad++",
-    "category": "激活工具",
+    "category": "编程工具",
     "description": "Notepad++ 是一款免费开源、轻量高效的 Windows 文本编辑器，支持 C/Python/HTML 等 80+ 语言语法高亮、代码折叠、正则替换、编码转换及插件扩展，专为程序员与文本处理用户打造，完美替代系统记事本。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_npp.ico",
     "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/ilsx146mpi2d"
+  },
+  {
+    "id": "DirectX-a",
+    "name": "DirectX 标准版",
+    "category": "维护工具",
+    "description": "DirectX修复工具主要用于修复和补全Windows系统中缺失或损坏的DirectX组件，同时部分增强版还支持C++运行库修复。下载密码：6666",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.ico",
+    "downloadUrl": "https://www.zysoftware.top/post/9.html",
+    "mirrorUrl": "https://isimon3.lanzn.com/iGulj46mwyba"
+  }
+    {
+    "id": "DirectX-b",
+    "name": "DirectX 增强版",
+    "category": "维护工具",
+    "description": "DirectX修复工具主要用于修复和补全Windows系统中缺失或损坏的DirectX组件，同时部分增强版还支持C++运行库修复。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.ico",
+    "downloadUrl": "https://www.zysoftware.top/post/9.html",
+    "mirrorUrl": "https://pan.quark.cn/s/1b4dbb522ff7"
   }
 ]
