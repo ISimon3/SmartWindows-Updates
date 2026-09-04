@@ -172,7 +172,7 @@
   },
   {
     "id": "DirectX-a",
-    "name": "DirectX 标准版",
+    "name": "DirectX Repair",
     "category": "系统维护",
     "description": "DirectX修复工具主要用于修复和补全Windows系统中缺失或损坏的DirectX组件，同时部分增强版还支持C++运行库修复。下载密码：6666",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.ico",
@@ -180,12 +180,12 @@
     "mirrorUrl": "https://isimon3.lanzn.com/iGulj46mwyba"
   },
   {
-    "id": "DirectX-b",
-    "name": "DirectX 增强版",
-    "category": "系统维护",
-    "description": "DirectX修复工具主要用于修复和补全Windows系统中缺失或损坏的DirectX组件，同时部分增强版还支持C++运行库修复。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.ico",
-    "downloadUrl": "https://www.zysoftware.top/post/9.html",
-    "mirrorUrl": "https://pan.quark.cn/s/1b4dbb522ff7"
+    "id": "Watt Toolkit",
+    "name": "Watt Toolkit",
+    "category": "游戏服务",
+    "description": "一个开源跨平台的多功能 Steam 工具箱。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_watt.ico",
+    "downloadUrl": "https://steampp.net/",
+    "mirrorUrl": "https://isimon3.lanzn.com/iQsPI46n0nah"
   }
 ]
