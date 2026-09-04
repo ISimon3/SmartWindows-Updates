@@ -160,5 +160,14 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/GenP.ico",
     "downloadUrl": "https://github.com/TheMythologist/GenP/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/ioxQy46mi09a"
+  },
+  {
+    "id": "nppInstaller",
+    "name": "Notepad++",
+    "category": "激活工具",
+    "description": "Notepad++ 是一款免费开源、轻量高效的 Windows 文本编辑器，支持 C/Python/HTML 等 80+ 语言语法高亮、代码折叠、正则替换、编码转换及插件扩展，专为程序员与文本处理用户打造，完美替代系统记事本。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_npp.ico",
+    "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases",
+    "mirrorUrl": "https://isimon3.lanzn.com/ilsx146mpi2d"
   }
 ]
