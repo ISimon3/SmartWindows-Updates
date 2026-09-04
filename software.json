@@ -187,5 +187,23 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_watt.ico",
     "downloadUrl": "https://steampp.net/",
     "mirrorUrl": "https://isimon3.lanzn.com/iQsPI46n0nah"
+  },
+    {
+    "id": "QuickLook",
+    "name": "QuickLook",
+    "category": "效率工具",
+    "description": "选中文件，按下空格键，即刻预览。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_QuickLook.ico",
+    "downloadUrl": "https://github.com/QL-Win/QuickLook/releases",
+    "mirrorUrl": "https://isimon3.lanzn.com/iQ4Wn46n45ad"
+  },
+    {
+    "id": "PalmInput",
+    "name": "手心输入法",
+    "category": "效率工具",
+    "description": "打字用手心，顺手更顺心。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_PalmInputSetup.ico",
+    "downloadUrl": "https://www.xinshuru.com/index.html?p=win",
+    "mirrorUrl": "https://isimon3.lanzn.com/i2ljL46n437i"
   }
 ]
