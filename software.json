@@ -143,7 +143,7 @@
     "downloadUrl": "https://www.python.org/downloads/windows/",
     "mirrorUrl": "https://isimon3.lanzn.com/ivBob46fzlpc"
   },
-    {
+  {
     "id": "clash-verge",
     "name": "clash-verge",
     "category": "代理工具",
@@ -151,6 +151,15 @@
     "icon": "/software-icons/clash-verge.ico",
     "downloadUrl": "https://github.com/clash-verge-rev",
     "mirrorUrl": "https://isimon3.lanzn.com/ilfBb46g21di"
+  },
+  {
+    "id": "GenP",
+    "name": "GenP v4.2.1",
+    "category": "激活工具",
+    "description": "原版Adobe系列软件免费激活工具。",
+    "icon": "/software-icons/GenP.ico",
+    "downloadUrl": "https://github.com/TheMythologist/GenP/releases",
+    "mirrorUrl": "https://isimon3.lanzn.com/ioxQy46mi09a"
   }
 
 ]
