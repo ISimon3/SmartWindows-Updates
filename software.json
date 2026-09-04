@@ -1,14 +1,5 @@
 [
   {
-    "id": "everything",
-    "name": "Everything",
-    "category": "文件工具",
-    "description": "一个快速高效的文件搜索工具，可以让你通过文件名立即找到文件和文件夹。",
-    "icon": "/software-icons/everything.ico",
-    "downloadUrl": "https://www.voidtools.com/downloads/",
-    "mirrorUrl": "https://isimon3.lanzn.com/ib35D46bj1vi"
-  },
-  {
     "id": "cpu-z",
     "name": "CPU-Z",
     "category": "系统维护",
