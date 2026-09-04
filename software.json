@@ -2,7 +2,7 @@
   {
     "id": "everything",
     "name": "Everything",
-    "category": "文件工具",
+    "category": "效率工具",
     "description": "一个快速高效的文件搜索工具，可以让你通过文件名立即找到文件和文件夹。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/everything.png",
     "downloadUrl": "https://www.voidtools.com/downloads/",
