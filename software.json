@@ -205,5 +205,14 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_PalmInputSetup.png",
     "downloadUrl": "https://www.xinshuru.com/index.html?p=win",
     "mirrorUrl": "https://isimon3.lanzn.com/i2ljL46n437i"
+  },
+      {
+    "id": "ContextMenuManager",
+    "name": "右键菜单管理",
+    "category": "效率工具",
+    "description": "目前Windows上非常好用的右键菜单管理工具。中文界面、操作简单、支持精确到文件类型的菜单管理，还带备份恢复功能。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_ContextMenuManager.png",
+    "downloadUrl": "https://bluepointlilac.github.io/ContextMenuManager/",
+    "mirrorUrl": "https://isimon3.lanzn.com/iAjlz46nc9oj"
   }
 ]
