@@ -4,7 +4,7 @@
     "name": "Everything",
     "category": "文件工具",
     "description": "一个快速高效的文件搜索工具，可以让你通过文件名立即找到文件和文件夹。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/everything.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/everything.png",
     "downloadUrl": "https://www.voidtools.com/downloads/",
     "mirrorUrl": "https://isimon3.lanzn.com/ib35D46bj1vi"
   },
@@ -13,7 +13,7 @@
     "name": "CPU-Z",
     "category": "系统维护",
     "description": "查看处理器、主板与内存信息。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/cpu-z.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/cpu-z.png",
     "downloadUrl": "https://www.cpuid.com/softwares/cpu-z.html",
     "mirrorUrl": "https://isimon3.lanzn.com/iKuiN46bspni"
   },
@@ -22,7 +22,7 @@
     "name": "图吧工具箱 WinUI3",
     "category": "系统维护",
     "description": "一个免费、开源、注重隐私的 PC 硬件工具集。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/tubawinui3.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/tubawinui3.png",
     "downloadUrl": "https://tubawinui3.cn/",
     "mirrorUrl": "https://pan.quark.cn/s/0ad085c30a4c"
   },
@@ -31,7 +31,7 @@
     "name": "Geek 专业版",
     "category": "系统维护",
     "description": "快速强大的卸载程序，可彻底移除程序。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/geek.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/geek.png",
     "downloadUrl": "https://geekuninstaller.com/",
     "mirrorUrl": "https://isimon3.lanzn.com/i3Xvf46dfe2f"
   },
@@ -40,7 +40,7 @@
     "name": "7-Zip Portable",
     "category": "压缩工具",
     "description": "7-Zip 是一款免费开源的压缩软件，支持多种格式，高压缩比，无广告。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/7zip-portable.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/7zip-portable.png",
     "downloadUrl": "https://portableapps.com/apps/utilities/7-zip_portable",
     "mirrorUrl": "https://isimon3.lanzn.com/iL4ll46cap7a"
   },
@@ -49,7 +49,7 @@
     "name": "Bandizip 专业版",
     "category": "压缩工具",
     "description": "强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Bandizip.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Bandizip.png",
     "downloadUrl": "https://www.bandisoft.com/bandizip/",
     "mirrorUrl": "https://isimon3.lanzn.com/iv7H446dm4uf"
   },
@@ -58,7 +58,7 @@
     "name": "网易UU远程",
     "category": "远程工具",
     "description": "网易资深团队出品，超低延迟多端远程控制。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/UULink.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/UULink.png",
     "downloadUrl": "https://uuyc.163.com/",
     "mirrorUrl": "https://isimon3.lanzn.com/iMCWc46dor4j"
   },
@@ -67,7 +67,7 @@
     "name": "HEU KMS Activator",
     "category": "激活工具",
     "description": "一款简洁高效的 KMS 激活工具。适用于 Windows、Office 及 VL 版本。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/HEU_KMS_Activator.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/HEU_KMS_Activator.png",
     "downloadUrl": "https://github.com/zbezj/HEU_KMS_Activator/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/ikguw46dsq8b"
   },
@@ -76,7 +76,7 @@
     "name": "Office Installer+",
     "category": "激活工具",
     "description": "一款 Office下载/安装/激活/部署工具。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Office%20Installer%2B.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Office%20Installer%2B.png",
     "downloadUrl": "https://msfree.su/",
     "mirrorUrl": "https://isimon3.lanzn.com/i79TA46dv32f"
   },
@@ -85,7 +85,7 @@
     "name": "WinRAR",
     "category": "压缩工具",
     "description": "一款功能强大的老牌压缩文件解压缩工具，可以打开所有流行的文件格式。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/WinRAR.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/WinRAR.png",
     "downloadUrl": "https://www.win-rar.com/download.html",
     "mirrorUrl": "https://isimon3.lanzn.com/i4vRQ46dwo3i"
   },
@@ -94,7 +94,7 @@
     "name": "360压缩（国际版）",
     "category": "压缩工具",
     "description": "高速解压RAR/ZIP/7Z，界面简洁，零广告零打扰。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/360zip.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/360zip.png",
     "downloadUrl": "https://www.360totalsecurity.com/zh-cn/360zip/",
     "mirrorUrl": "https://isimon3.lanzn.com/iEW0W46e1rcf"
   },
@@ -103,7 +103,7 @@
     "name": "微软常用运行库合集",
     "category": "系统维护",
     "description": "包含Visual C++等必备组件，可一键修复软件因缺少DLL导致的运行错误。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/MSVBCRT.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/MSVBCRT.png",
     "downloadUrl": "",
     "mirrorUrl": "https://isimon3.lanzn.com/ixMeM46e2ocd"
   },
@@ -112,7 +112,7 @@
     "name": "360急救箱",
     "category": "系统维护",
     "description": "PC端360系统急救箱支持查杀电脑恶性病毒，包含驱动型及MBR型，同时支持扫描清除顽固木马。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Superkiller.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Superkiller.png",
     "downloadUrl": "https://weishi.360.cn/jijiuxiang/",
     "mirrorUrl": "https://isimon3.lanzn.com/iF6Gm46ehgib"
   },
@@ -121,7 +121,7 @@
     "name": "Windows Update Blocker",
     "category": "系统维护",
     "description": "单击按钮即可帮助您完全禁用或启用 Windows 系统的自动更新。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Windows%20Update%20Blocker.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Windows%20Update%20Blocker.png",
     "downloadUrl": "https://www.sordum.org/downloads/?st-windows-update-blocker",
     "mirrorUrl": "https://isimon3.lanzn.com/ioGI446frkzi"
   },
@@ -130,7 +130,7 @@
     "name": "Defender Control",
     "category": "系统维护",
     "description": "一款小巧的便携式免费软件，可让您在 Windows 10 中完全禁用 Microsoft Defender。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/dControl.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/dControl.png",
     "downloadUrl": "https://www.sordum.org/9480/defender-control-v2-1/",
     "mirrorUrl": "https://isimon3.lanzn.com/iS1UX46fu8ba"
   },
@@ -139,7 +139,7 @@
     "name": "python-3.12.10",
     "category": "编程工具",
     "description": "下载适用于 Windows 的 python-3.12.10 安装包",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/python-3.12.10.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/python-3.12.10.png",
     "downloadUrl": "https://www.python.org/downloads/windows/",
     "mirrorUrl": "https://isimon3.lanzn.com/ivBob46fzlpc"
   },
@@ -148,7 +148,7 @@
     "name": "clash-verge",
     "category": "代理工具",
     "description": "基于 Mihomo 内核的跨平台图形化 Clash 客户端，支持订阅管理、规则分流和多协议代理。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/clash-verge.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/clash-verge.png",
     "downloadUrl": "https://github.com/clash-verge-rev",
     "mirrorUrl": "https://isimon3.lanzn.com/ilfBb46g21di"
   },
@@ -157,7 +157,7 @@
     "name": "Adobe GenP",
     "category": "激活工具",
     "description": "Adobe系列软件免费激活工具，版本v4.2.1。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/GenP.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/GenP.png",
     "downloadUrl": "https://github.com/TheMythologist/GenP/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/ioxQy46mi09a"
   },
@@ -166,7 +166,7 @@
     "name": "Notepad++",
     "category": "编程工具",
     "description": "Notepad++ 是一款免费开源、轻量高效的 Windows 文本编辑器，支持 C/Python/HTML 等 80+ 语言语法高亮、代码折叠、正则替换、编码转换及插件扩展，专为程序员与文本处理用户打造，完美替代系统记事本。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_npp.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_npp.png",
     "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/ilsx146mpi2d"
   },
@@ -175,7 +175,7 @@
     "name": "DirectX Repair",
     "category": "系统维护",
     "description": "DirectX修复工具主要用于修复和补全Windows系统中缺失或损坏的DirectX组件，同时部分增强版还支持C++运行库修复。下载密码：6666",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.png",
     "downloadUrl": "https://www.zysoftware.top/post/9.html",
     "mirrorUrl": "https://isimon3.lanzn.com/iGulj46mwyba"
   },
@@ -184,7 +184,7 @@
     "name": "Watt Toolkit",
     "category": "游戏服务",
     "description": "一个开源跨平台的多功能 Steam 工具箱。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_watt.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_watt.png",
     "downloadUrl": "https://steampp.net/",
     "mirrorUrl": "https://isimon3.lanzn.com/iQsPI46n0nah"
   },
@@ -193,7 +193,7 @@
     "name": "QuickLook",
     "category": "效率工具",
     "description": "选中文件，按下空格键，即刻预览。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_QuickLook.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_QuickLook.png",
     "downloadUrl": "https://github.com/QL-Win/QuickLook/releases",
     "mirrorUrl": "https://isimon3.lanzn.com/iQ4Wn46n45ad"
   },
@@ -202,7 +202,7 @@
     "name": "手心输入法",
     "category": "效率工具",
     "description": "打字用手心，顺手更顺心。",
-    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_PalmInputSetup.ico",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_PalmInputSetup.png",
     "downloadUrl": "https://www.xinshuru.com/index.html?p=win",
     "mirrorUrl": "https://isimon3.lanzn.com/i2ljL46n437i"
   }
