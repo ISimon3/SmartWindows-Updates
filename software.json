@@ -7,10 +7,7 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/everything.png",
     "officialUrl": "https://www.voidtools.com/downloads/",
     "downloads": [
-      {
-        "name": "蓝奏云",
-        "url": "https://isimon3.lanzn.com/ib35D46bj1vi"
-      }
+      {"name": "蓝奏云","url": "https://isimon3.lanzn.com/ib35D46bj1vi"}
     ]
   },
   {
@@ -343,6 +340,17 @@
         "name": "夸克网盘",
         "url": "https://pan.quark.cn/s/f20ae0b5e3e1"
       }
+    ]
+  },
+    {
+    "id": "wechat",
+    "name": "微信 v4.1.13",
+    "category": "常用软件",
+    "description": "提供微信 Windows 版下载",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_wechat.png",
+    "officialUrl": "https://pc.weixin.qq.com/",
+    "downloads": [
+      {"name": "直链下载","url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.13.exe"}
     ]
   }
 ]
