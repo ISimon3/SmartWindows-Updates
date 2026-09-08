@@ -80,7 +80,7 @@
   {
     "id": "UULink",
     "name": "网易UU远程",
-    "category": "远程工具",
+    "category": " 系统维护",
     "description": "网易资深团队出品，超低延迟多端远程控制。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/UULink.png",
     "officialUrl": "https://uuyc.163.com/",
@@ -219,7 +219,7 @@
   {
     "id": "clash-verge",
     "name": "clash-verge",
-    "category": "代理工具",
+    "category": " 游戏服务",
     "description": "基于 Mihomo 内核的跨平台图形化 Clash 客户端，支持订阅管理、规则分流和多协议代理。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/clash-verge.png",
     "officialUrl": "https://github.com/clash-verge-rev",
