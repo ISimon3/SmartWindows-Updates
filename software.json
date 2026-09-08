@@ -410,7 +410,9 @@
     "description": "Acrobat Pro DC中文版配有直观触控式界面及强大的新功能，能将任何纸质文件转换为可编辑的文件，用于传输,签署和分享。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_Acrobat.png",
     "officialUrl": "",
-    "downloads": ["name": "夸克网盘","url": "https://pan.quark.cn/s/5114e4e1ba79"]
+    "downloads": [
+      {"name": "夸克网盘","url": "https://pan.quark.cn/s/5114e4e1ba79"}
+    ]
   },
   {
     "id": "Adobe Photoshop",
@@ -419,6 +421,8 @@
     "description": "Adobe Photoshop 是一款全球流行的专业图像处理软件及照片和设计软件。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_Photoshop.png",
     "officialUrl": "",
-    "downloads": ["name": "夸克网盘","url": "https://pan.quark.cn/s/0fe50f1c5a7d"]
+    "downloads": [
+      {"name": "夸克网盘","url": "https://pan.quark.cn/s/0fe50f1c5a7d"}
+    ]
   }
 ]
