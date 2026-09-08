@@ -473,5 +473,19 @@
         "url": "https://isimon3.lanzn.com/ib1t847dhesj"
       }
     ]
+  },
+  {
+    "id": "Ideal Memory",
+    "name": "Ideal Memory",
+    "category": "开发者项目",
+    "description": "一款由Simonius使用 Rust + Tauri 2 构建的加密账户管理工具。使用坚果云账户和应用密码登录，账户、密码和备注会先在本机加密，再写入磁盘并通过 WebDAV 同步。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_91fbdfcb11478b2f75e1202e.png",
+    "officialUrl": "",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/icfxv47dpenc"
+      }
+    ]
   }
 ]
