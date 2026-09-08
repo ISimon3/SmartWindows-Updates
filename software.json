@@ -368,7 +368,7 @@
     "id": "steam",
     "name": "Steam",
     "category": "常用软件",
-    "description": "提供steam 最新版下载",
+    "description": "Steam（官方中文名：蒸汽平台）是 Valve 公司 2003 年推出的全球最大综合性数字游戏发行与社交平台，如今已不只是买游戏的商店，而是覆盖购买、下载、社区、创作、硬件的完整游戏生态。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_steam.png",
     "officialUrl": "https://store.steampowered.com/about/",
     "downloads": [
