@@ -99,7 +99,7 @@
   },
   {
     "id": "HEUKMSActivator",
-    "name": "HEU KMS Activator",
+    "name": "HEU KMS Activator v64.0.0",
     "category": "激活工具",
     "description": "一款简洁高效的 KMS 激活工具。适用于 Windows、Office 及 VL 版本。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/HEU_KMS_Activator.png",
@@ -107,7 +107,9 @@
     "downloads": [
       {
         "name": "蓝奏云",
-        "url": "https://isimon3.lanzn.com/ikguw46dsq8b"
+        "url": "https://isimon3.lanzn.com/ikguw46dsq8b",
+        "name": "官方直链",
+        "url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/64.0.0/HEU_KMS_Activator_v64.0.0.rar"  
       }
     ]
   },
