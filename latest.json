@@ -1,13 +1,13 @@
 {
-    "version":  "0.1.8",
-    "name":  "SmartWindows v0.1.8",
-    "notes":  "SmartWindows v0.1.8，包含便携版与 Windows 安装包。",
-    "releaseUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/tag/v0.1.8",
-    "portableUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.8/SmartWindows.exe",
-    "installerUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.8/SmartWindows-Setup.exe",
+    "version":  "0.1.9",
+    "name":  "SmartWindows v0.1.9",
+    "notes":  "SmartWindows v0.1.9，包含便携版与 Windows 安装包。",
+    "releaseUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/tag/v0.1.9",
+    "portableUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.9/SmartWindows.exe",
+    "installerUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.9/SmartWindows-Setup.exe",
     "sha256":  {
-                   "portable":  "738E58D95F5E7F1A854AF0AE2033BA88E015AB96BFF3186FF8FA927186E7E77D",
-                   "installer":  "AA9FF58FB0063C006B12BDBE4EAEF50D6CA5E8FC93079F2E6291BDE4C5AEFA53"
+                   "portable":  "A46F60A31C7FC77C2C3E64A36419993EF33EA946B3A127F787AB1B6EA2438975",
+                   "installer":  "14D5B8C5972C926302A832D5380954A12201334BB04410E5A3C23ABB8B26B394"
                },
-    "publishedAt":  "2026-09-07T16:27:12.2418763Z"
+    "publishedAt":  "2026-09-08T02:24:53.2090163Z"
 }
