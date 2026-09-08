@@ -7,7 +7,10 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/everything.png",
     "officialUrl": "https://www.voidtools.com/downloads/",
     "downloads": [
-      {"name": "蓝奏云","url": "https://isimon3.lanzn.com/ib35D46bj1vi"}
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ib35D46bj1vi"
+      }
     ]
   },
   {
@@ -46,7 +49,10 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/geek.png",
     "officialUrl": "https://geekuninstaller.com/",
     "downloads": [
-      {"name": "蓝奏云","url": "https://isimon3.lanzn.com/iY69747coc6b"}
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iY69747coc6b"
+      }
     ]
   },
   {
@@ -80,7 +86,7 @@
   {
     "id": "UULink",
     "name": "网易UU远程",
-    "category": " 系统维护",
+    "category": "系统维护",
     "description": "网易资深团队出品，超低延迟多端远程控制。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/UULink.png",
     "officialUrl": "https://uuyc.163.com/",
@@ -98,10 +104,15 @@
     "description": "一款简洁高效的 KMS 激活工具。适用于 Windows、Office 及 VL 版本。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/HEU_KMS_Activator.png",
     "officialUrl": "https://github.com/zbezj/HEU_KMS_Activator/releases",
-    "downloads": 
-    [
-      {"name": "蓝奏云","url": "https://isimon3.lanzn.com/ikguw46dsq8b"},
-      {"name": "官方直链","url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/64.0.0/HEU_KMS_Activator_v64.0.0.rar"}
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ikguw46dsq8b"
+      },
+      {
+        "name": "官方直链",
+        "url": "https://github.com/zbezj/HEU_KMS_Activator/releases/download/64.0.0/HEU_KMS_Activator_v64.0.0.rar"
+      }
     ]
   },
   {
@@ -219,7 +230,7 @@
   {
     "id": "clash-verge",
     "name": "clash-verge",
-    "category": " 游戏服务",
+    "category": "游戏服务",
     "description": "基于 Mihomo 内核的跨平台图形化 Clash 客户端，支持订阅管理、规则分流和多协议代理。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/clash-verge.png",
     "officialUrl": "https://github.com/clash-verge-rev",
@@ -328,7 +339,7 @@
       }
     ]
   },
-    {
+  {
     "id": "VMware Workstation",
     "name": "VMware Workstation",
     "category": "系统维护",
@@ -336,10 +347,13 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_vmware.png",
     "officialUrl": "",
     "downloads": [
-      {"name": "夸克网盘","url": "https://pan.quark.cn/s/f20ae0b5e3e1"}
+      {
+        "name": "夸克网盘",
+        "url": "https://pan.quark.cn/s/f20ae0b5e3e1"
+      }
     ]
   },
-    {
+  {
     "id": "wechat",
     "name": "微信 v4.1.13",
     "category": "常用软件",
@@ -347,10 +361,13 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_wechat.png",
     "officialUrl": "https://pc.weixin.qq.com/",
     "downloads": [
-      {"name": "直链下载","url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.13.exe"}
+      {
+        "name": "直链下载",
+        "url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.13.exe"
+      }
     ]
   },
-      {
+  {
     "id": "QQ",
     "name": "QQ v9.9.35",
     "category": "常用软件",
@@ -358,10 +375,13 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_qq.png",
     "officialUrl": "https://pc.weixin.qq.com/",
     "downloads": [
-      {"name": "直链下载","url": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.35/release/8a8b2a64/QQ_9.9.35_260902_x64_01.exe"}
+      {
+        "name": "直链下载",
+        "url": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.35/release/8a8b2a64/QQ_9.9.35_260902_x64_01.exe"
+      }
     ]
   },
-        {
+  {
     "id": "steam",
     "name": "Steam",
     "category": "游戏服务",
@@ -369,7 +389,10 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_steam.png",
     "officialUrl": "https://store.steampowered.com/about/",
     "downloads": [
-      {"name": "直链下载","url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"}
+      {
+        "name": "直链下载",
+        "url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"
+      }
     ]
   },
   {
@@ -380,7 +403,10 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_twinkstar.png",
     "officialUrl": "https://www.twinkstar.com/",
     "downloads": [
-      {"name": "直链下载","url": "https://d1.twinkstar.com/win/Twinkstar_v11.3.1000.2607_Release2.exe"}
+      {
+        "name": "直链下载",
+        "url": "https://d1.twinkstar.com/win/Twinkstar_v11.3.1000.2607_Release2.exe"
+      }
     ]
   },
   {
@@ -391,7 +417,10 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_reshacker.png",
     "officialUrl": "",
     "downloads": [
-      {"name": "蓝奏云","url": "https://isimon3.lanzn.com/iJpsm47d06lc"}
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iJpsm47d06lc"
+      }
     ]
   },
   {
@@ -411,7 +440,10 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_Acrobat.png",
     "officialUrl": "",
     "downloads": [
-      {"name": "夸克网盘","url": "https://pan.quark.cn/s/5114e4e1ba79"}
+      {
+        "name": "夸克网盘",
+        "url": "https://pan.quark.cn/s/5114e4e1ba79"
+      }
     ]
   },
   {
@@ -422,7 +454,24 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_Photoshop.png",
     "officialUrl": "",
     "downloads": [
-      {"name": "夸克网盘","url": "https://pan.quark.cn/s/0fe50f1c5a7d"}
+      {
+        "name": "夸克网盘",
+        "url": "https://pan.quark.cn/s/0fe50f1c5a7d"
+      }
+    ]
+  },
+  {
+    "id": "GPUZ",
+    "name": "GPU-Z v2.67",
+    "category": "系统维护",
+    "description": "GPU-Z是TechPowerUp推出的显卡识别工具，轻量免安装，直观显示GPU核心、频率、带宽等。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_16b35df1c6437d0d595c6770.png",
+    "officialUrl": "",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ib1t847dhesj"
+      }
     ]
   }
 ]
