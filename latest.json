@@ -1,13 +1,13 @@
 {
-    "version":  "0.1.9",
-    "name":  "SmartWindows v0.1.9",
-    "notes":  "SmartWindows v0.1.9，包含便携版与 Windows 安装包。",
-    "releaseUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/tag/v0.1.9",
-    "portableUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.9/SmartWindows.exe",
-    "installerUrl":  "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.9/SmartWindows-Setup.exe",
-    "sha256":  {
-                   "portable":  "A46F60A31C7FC77C2C3E64A36419993EF33EA946B3A127F787AB1B6EA2438975",
-                   "installer":  "14D5B8C5972C926302A832D5380954A12201334BB04410E5A3C23ABB8B26B394"
-               },
-    "publishedAt":  "2026-09-08T02:24:53.2090163Z"
+  "version": "0.1.10",
+  "name": "SmartWindows v0.1.10",
+  "notes": "提高电源字号并优化开关反馈；网络修复增加诊断、备份与连接验证；按操作提权；目录迁移实时进度和中断恢复；文件哈希单次读取、字节进度及安全取消；改进联网规则状态、更新提示与定时关机记录。",
+  "releaseUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/tag/v0.1.10",
+  "portableUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.10/SmartWindows.exe",
+  "installerUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.10/SmartWindows-Setup.exe",
+  "sha256": {
+    "portable": "CB19C56282E65C33AAE54360801EF25B00F3555337B0BE016BB3F01DD966A0E0",
+    "installer": "A61F7A9B1C3B6661E81254FBC9429A667BDF3249399A1F8656F508EF3947A056"
+  },
+  "publishedAt": "2026-09-08T03:44:17.3135922Z"
 }
