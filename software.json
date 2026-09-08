@@ -42,10 +42,10 @@
     ]
   },
   {
-    "id": "geek",
-    "name": "Geek 专业版",
+    "id": "Uninstall Tool",
+    "name": "Uninstall Tool v3.7.3",
     "category": "系统维护",
-    "description": "快速强大的卸载程序，可彻底移除程序。",
+    "description": "一款小巧、安全、快速的软件卸载工具，可彻底删除软件及其残留文件、注册表项，提高系统效能。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/geek.png",
     "officialUrl": "https://geekuninstaller.com/",
     "downloads": [
@@ -335,7 +335,7 @@
       }
     ]
   },
-  {
+    {
     "id": "VMware Workstation",
     "name": "VMware Workstation",
     "category": "系统维护",
