@@ -375,7 +375,7 @@
       {"name": "直链下载","url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"}
     ]
   },
-          {
+  {
     "id": "Twinkstar",
     "name": "星愿浏览器 v11.3",
     "category": "浏览器",
@@ -384,6 +384,28 @@
     "officialUrl": "https://www.twinkstar.com/",
     "downloads": [
       {"name": "直链下载","url": "https://d1.twinkstar.com/win/Twinkstar_v11.3.1000.2607_Release2.exe"}
+    ]
+  },
+  {
+    "id": "reshacker",
+    "name": "Resource Hacker v5.2.6",
+    "category": "编程工具",
+    "description": "用于查看，修改，添加和删除 Win32 可执行文件的资源，内置了一个内部资源编译器和反编译器。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_reshacker.png",
+    "officialUrl": "",
+    "downloads": [
+      {"name": "蓝奏云","url": "https://isimon3.lanzn.com/iJpsm47d06lc"}
+    ]
+  },
+    {
+    "id": "jianguoyun",
+    "name": "坚果云",
+    "category": "效率工具",
+    "description": "为Windows系统设计的全功能客户端，自动智能同步您的文件。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_jianguoyun.png",
+    "officialUrl": "https://www.jianguoyun.com/s/downloads",
+    "downloads": [
+      {"name": "",""}
     ]
   }
 ]
