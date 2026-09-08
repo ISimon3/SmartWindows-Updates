@@ -346,11 +346,44 @@
     "id": "wechat",
     "name": "微信 v4.1.13",
     "category": "常用软件",
-    "description": "提供微信 Windows 版下载",
+    "description": "提供 微信 Windows 版下载",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_wechat.png",
     "officialUrl": "https://pc.weixin.qq.com/",
     "downloads": [
       {"name": "直链下载","url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.13.exe"}
+    ]
+  },
+      {
+    "id": "QQ",
+    "name": "QQ v9.9.35",
+    "category": "常用软件",
+    "description": "提供 QQ Windows 版下载",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_qq.png",
+    "officialUrl": "https://pc.weixin.qq.com/",
+    "downloads": [
+      {"name": "直链下载","url": "https://qqdl.gtimg.cn/qqfile/QQNTV2/9.9.35/release/8a8b2a64/QQ_9.9.35_260902_x64_01.exe"}
+    ]
+  },
+        {
+    "id": "steam",
+    "name": "Steam",
+    "category": "常用软件",
+    "description": "提供steam 最新版下载",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_steam.png",
+    "officialUrl": "https://store.steampowered.com/about/",
+    "downloads": [
+      {"name": "直链下载","url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"}
+    ]
+  },
+          {
+    "id": "Twinkstar",
+    "name": "星愿浏览器 v11.3",
+    "category": "浏览器",
+    "description": "一款方便，可靠，简洁且时尚的浏览器，针对大学生，年轻人的上网习惯，开发提高上网效率的酷炫功能。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_Twinkstar.png",
+    "officialUrl": "https://www.twinkstar.com/",
+    "downloads": [
+      {"name": "直链下载","url": "https://d1.twinkstar.com/win/Twinkstar_v11.3.1000.2607_Release2.exe"}
     ]
   }
 ]
