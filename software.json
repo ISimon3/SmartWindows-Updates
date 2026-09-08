@@ -405,7 +405,7 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_Nutstore.png",
     "officialUrl": "https://www.jianguoyun.com/s/downloads",
     "downloads": [
-      {"name": "",""}
+      {"name": "","url": ""}
     ]
   }
 ]
