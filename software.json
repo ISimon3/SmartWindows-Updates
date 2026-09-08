@@ -43,7 +43,7 @@
   },
   {
     "id": "Uninstall Tool",
-    "name": "Uninstall Tool v3.7.3",
+    "name": "Uninstall Tool",
     "category": "系统维护",
     "description": "一款小巧、安全、快速的软件卸载工具，可彻底删除软件及其残留文件、注册表项，提高系统效能。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/geek.png",
@@ -99,7 +99,7 @@
   },
   {
     "id": "HEUKMSActivator",
-    "name": "HEU KMS Activator v64.0.0",
+    "name": "HEU KMS Activator",
     "category": "激活工具",
     "description": "一款简洁高效的 KMS 激活工具。适用于 Windows、Office 及 VL 版本。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/HEU_KMS_Activator.png",
@@ -131,7 +131,7 @@
   },
   {
     "id": "WinRAR",
-    "name": "WinRAR v7.22",
+    "name": "WinRAR",
     "category": "压缩工具",
     "description": "一款功能强大的老牌压缩文件解压缩工具，可以打开所有流行的文件格式。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/WinRAR.png",
@@ -215,7 +215,7 @@
   },
   {
     "id": "python",
-    "name": "python-3.12.10",
+    "name": "python",
     "category": "编程工具",
     "description": "下载适用于 Windows 的 python-3.12.10 安装包",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/python-3.12.10.png",
@@ -355,9 +355,9 @@
   },
   {
     "id": "wechat",
-    "name": "微信 v4.1.13",
+    "name": "微信",
     "category": "常用软件",
-    "description": "提供 微信 Windows 版下载",
+    "description": "提供 微信 Windows v4.1.13版下载",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_wechat.png",
     "officialUrl": "https://pc.weixin.qq.com/",
     "downloads": [
@@ -369,9 +369,9 @@
   },
   {
     "id": "QQ",
-    "name": "QQ v9.9.35",
+    "name": "QQ",
     "category": "常用软件",
-    "description": "提供 QQ Windows 版下载",
+    "description": "提供 QQ Windows  v9.9.35 版下载",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_qq.png",
     "officialUrl": "https://pc.weixin.qq.com/",
     "downloads": [
@@ -397,7 +397,7 @@
   },
   {
     "id": "Twinkstar",
-    "name": "星愿浏览器 v11.3",
+    "name": "星愿浏览器",
     "category": "浏览器",
     "description": "一款方便，可靠，简洁且时尚的浏览器，针对大学生，年轻人的上网习惯，开发提高上网效率的酷炫功能。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_twinkstar.png",
@@ -411,7 +411,7 @@
   },
   {
     "id": "reshacker",
-    "name": "Resource Hacker v5.2.6",
+    "name": "Resource Hacker",
     "category": "编程工具",
     "description": "用于查看，修改，添加和删除 Win32 可执行文件的资源，内置了一个内部资源编译器和反编译器。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_reshacker.png",
@@ -462,9 +462,9 @@
   },
   {
     "id": "GPUZ",
-    "name": "GPU-Z v2.67",
+    "name": "GPU-Z",
     "category": "系统维护",
-    "description": "GPU-Z是TechPowerUp推出的显卡识别工具，轻量免安装，直观显示GPU核心、频率、带宽等。",
+    "description": "GPU-Z 是TechPowerUp推出的显卡识别工具，轻量免安装，直观显示GPU核心、频率、带宽等。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_16b35df1c6437d0d595c6770.png",
     "officialUrl": "",
     "downloads": [
