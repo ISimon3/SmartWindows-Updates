@@ -6,7 +6,14 @@
     "description": "一个快速高效的文件搜索工具，可以让你通过文件名立即找到文件和文件夹。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/everything.png",
     "downloadUrl": "https://www.voidtools.com/downloads/",
-    "mirrorUrl": "https://isimon3.lanzn.com/ib35D46bj1vi"
+    "mirrorUrl": "https://isimon3.lanzn.com/ib35D46bj1vi",
+    "officialUrl": "https://www.voidtools.com/downloads/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ib35D46bj1vi"
+      }
+    ]
   },
   {
     "id": "cpu-z",
@@ -15,7 +22,14 @@
     "description": "查看处理器、主板与内存信息。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/cpu-z.png",
     "downloadUrl": "https://www.cpuid.com/softwares/cpu-z.html",
-    "mirrorUrl": "https://isimon3.lanzn.com/iKuiN46bspni"
+    "mirrorUrl": "https://isimon3.lanzn.com/iKuiN46bspni",
+    "officialUrl": "https://www.cpuid.com/softwares/cpu-z.html",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iKuiN46bspni"
+      }
+    ]
   },
   {
     "id": "tubawinui3",
@@ -24,7 +38,14 @@
     "description": "一个免费、开源、注重隐私的 PC 硬件工具集。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/tubawinui3.png",
     "downloadUrl": "https://tubawinui3.cn/",
-    "mirrorUrl": "https://pan.quark.cn/s/0ad085c30a4c"
+    "mirrorUrl": "https://pan.quark.cn/s/0ad085c30a4c",
+    "officialUrl": "https://tubawinui3.cn/",
+    "downloads": [
+      {
+        "name": "夸克网盘",
+        "url": "https://pan.quark.cn/s/0ad085c30a4c"
+      }
+    ]
   },
   {
     "id": "geek",
@@ -33,7 +54,14 @@
     "description": "快速强大的卸载程序，可彻底移除程序。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/geek.png",
     "downloadUrl": "https://geekuninstaller.com/",
-    "mirrorUrl": "https://isimon3.lanzn.com/i3Xvf46dfe2f"
+    "mirrorUrl": "https://isimon3.lanzn.com/i3Xvf46dfe2f",
+    "officialUrl": "https://geekuninstaller.com/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/i3Xvf46dfe2f"
+      }
+    ]
   },
   {
     "id": "7zip-portable",
@@ -42,7 +70,14 @@
     "description": "7-Zip 是一款免费开源的压缩软件，支持多种格式，高压缩比，无广告。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/7zip-portable.png",
     "downloadUrl": "https://portableapps.com/apps/utilities/7-zip_portable",
-    "mirrorUrl": "https://isimon3.lanzn.com/iL4ll46cap7a"
+    "mirrorUrl": "https://isimon3.lanzn.com/iL4ll46cap7a",
+    "officialUrl": "https://portableapps.com/apps/utilities/7-zip_portable",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iL4ll46cap7a"
+      }
+    ]
   },
   {
     "id": "Bandizip",
@@ -51,7 +86,14 @@
     "description": "强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Bandizip.png",
     "downloadUrl": "https://www.bandisoft.com/bandizip/",
-    "mirrorUrl": "https://isimon3.lanzn.com/i3V2J47c7wpi"
+    "mirrorUrl": "https://isimon3.lanzn.com/i3V2J47c7wpi",
+    "officialUrl": "https://www.bandisoft.com/bandizip/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/i3V2J47c7wpi"
+      }
+    ]
   },
   {
     "id": "UULink",
@@ -60,7 +102,14 @@
     "description": "网易资深团队出品，超低延迟多端远程控制。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/UULink.png",
     "downloadUrl": "https://uuyc.163.com/",
-    "mirrorUrl": "https://isimon3.lanzn.com/iMCWc46dor4j"
+    "mirrorUrl": "https://isimon3.lanzn.com/iMCWc46dor4j",
+    "officialUrl": "https://uuyc.163.com/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iMCWc46dor4j"
+      }
+    ]
   },
   {
     "id": "HEUKMSActivator",
@@ -69,7 +118,14 @@
     "description": "一款简洁高效的 KMS 激活工具。适用于 Windows、Office 及 VL 版本。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/HEU_KMS_Activator.png",
     "downloadUrl": "https://github.com/zbezj/HEU_KMS_Activator/releases",
-    "mirrorUrl": "https://isimon3.lanzn.com/ikguw46dsq8b"
+    "mirrorUrl": "https://isimon3.lanzn.com/ikguw46dsq8b",
+    "officialUrl": "https://github.com/zbezj/HEU_KMS_Activator/releases",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ikguw46dsq8b"
+      }
+    ]
   },
   {
     "id": "OfficeInstaller+",
@@ -78,7 +134,14 @@
     "description": "一款 Office下载/安装/激活/部署工具。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Office%20Installer%2B.png",
     "downloadUrl": "https://msfree.su/",
-    "mirrorUrl": "https://isimon3.lanzn.com/i79TA46dv32f"
+    "mirrorUrl": "https://isimon3.lanzn.com/i79TA46dv32f",
+    "officialUrl": "https://msfree.su/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/i79TA46dv32f"
+      }
+    ]
   },
   {
     "id": "WinRAR",
@@ -87,7 +150,14 @@
     "description": "一款功能强大的老牌压缩文件解压缩工具，可以打开所有流行的文件格式。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/WinRAR.png",
     "downloadUrl": "https://www.win-rar.com/download.html",
-    "mirrorUrl": "https://isimon3.lanzn.com/i4vRQ46dwo3i"
+    "mirrorUrl": "https://isimon3.lanzn.com/i4vRQ46dwo3i",
+    "officialUrl": "https://www.win-rar.com/download.html",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/i4vRQ46dwo3i"
+      }
+    ]
   },
   {
     "id": "360压缩",
@@ -96,7 +166,14 @@
     "description": "高速解压RAR/ZIP/7Z，界面简洁，零广告零打扰。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/360zip.png",
     "downloadUrl": "https://www.360totalsecurity.com/zh-cn/360zip/",
-    "mirrorUrl": "https://isimon3.lanzn.com/iEW0W46e1rcf"
+    "mirrorUrl": "https://isimon3.lanzn.com/iEW0W46e1rcf",
+    "officialUrl": "https://www.360totalsecurity.com/zh-cn/360zip/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iEW0W46e1rcf"
+      }
+    ]
   },
   {
     "id": "微软常用运行库合集",
@@ -105,7 +182,14 @@
     "description": "包含Visual C++等必备组件，可一键修复软件因缺少DLL导致的运行错误。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/MSVBCRT.png",
     "downloadUrl": "",
-    "mirrorUrl": "https://isimon3.lanzn.com/ixMeM46e2ocd"
+    "mirrorUrl": "https://isimon3.lanzn.com/ixMeM46e2ocd",
+    "officialUrl": "",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ixMeM46e2ocd"
+      }
+    ]
   },
   {
     "id": "360c0mpkill",
@@ -114,7 +198,14 @@
     "description": "PC端360系统急救箱支持查杀电脑恶性病毒，包含驱动型及MBR型，同时支持扫描清除顽固木马。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Superkiller.png",
     "downloadUrl": "https://weishi.360.cn/jijiuxiang/",
-    "mirrorUrl": "https://isimon3.lanzn.com/iF6Gm46ehgib"
+    "mirrorUrl": "https://isimon3.lanzn.com/iF6Gm46ehgib",
+    "officialUrl": "https://weishi.360.cn/jijiuxiang/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iF6Gm46ehgib"
+      }
+    ]
   },
   {
     "id": "Windows Update Blocker",
@@ -123,7 +214,14 @@
     "description": "单击按钮即可帮助您完全禁用或启用 Windows 系统的自动更新。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/Windows%20Update%20Blocker.png",
     "downloadUrl": "https://www.sordum.org/downloads/?st-windows-update-blocker",
-    "mirrorUrl": "https://isimon3.lanzn.com/ioGI446frkzi"
+    "mirrorUrl": "https://isimon3.lanzn.com/ioGI446frkzi",
+    "officialUrl": "https://www.sordum.org/downloads/?st-windows-update-blocker",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ioGI446frkzi"
+      }
+    ]
   },
   {
     "id": "dControl",
@@ -132,7 +230,14 @@
     "description": "一款小巧的便携式免费软件，可让您在 Windows 10 中完全禁用 Microsoft Defender。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/dControl.png",
     "downloadUrl": "https://www.sordum.org/9480/defender-control-v2-1/",
-    "mirrorUrl": "https://isimon3.lanzn.com/iS1UX46fu8ba"
+    "mirrorUrl": "https://isimon3.lanzn.com/iS1UX46fu8ba",
+    "officialUrl": "https://www.sordum.org/9480/defender-control-v2-1/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iS1UX46fu8ba"
+      }
+    ]
   },
   {
     "id": "python",
@@ -141,7 +246,14 @@
     "description": "下载适用于 Windows 的 python-3.12.10 安装包",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/python-3.12.10.png",
     "downloadUrl": "https://www.python.org/downloads/windows/",
-    "mirrorUrl": "https://isimon3.lanzn.com/ivBob46fzlpc"
+    "mirrorUrl": "https://isimon3.lanzn.com/ivBob46fzlpc",
+    "officialUrl": "https://www.python.org/downloads/windows/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ivBob46fzlpc"
+      }
+    ]
   },
   {
     "id": "clash-verge",
@@ -150,7 +262,14 @@
     "description": "基于 Mihomo 内核的跨平台图形化 Clash 客户端，支持订阅管理、规则分流和多协议代理。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/clash-verge.png",
     "downloadUrl": "https://github.com/clash-verge-rev",
-    "mirrorUrl": "https://isimon3.lanzn.com/ilfBb46g21di"
+    "mirrorUrl": "https://isimon3.lanzn.com/ilfBb46g21di",
+    "officialUrl": "https://github.com/clash-verge-rev",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ilfBb46g21di"
+      }
+    ]
   },
   {
     "id": "Adobe GenP",
@@ -159,7 +278,14 @@
     "description": "Adobe系列软件免费激活工具，版本v4.2.1。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/GenP.png",
     "downloadUrl": "https://github.com/TheMythologist/GenP/releases",
-    "mirrorUrl": "https://isimon3.lanzn.com/ioxQy46mi09a"
+    "mirrorUrl": "https://isimon3.lanzn.com/ioxQy46mi09a",
+    "officialUrl": "https://github.com/TheMythologist/GenP/releases",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ioxQy46mi09a"
+      }
+    ]
   },
   {
     "id": "nppInstaller",
@@ -168,7 +294,14 @@
     "description": "Notepad++ 是一款免费开源、轻量高效的 Windows 文本编辑器，支持 C/Python/HTML 等 80+ 语言语法高亮、代码折叠、正则替换、编码转换及插件扩展，专为程序员与文本处理用户打造，完美替代系统记事本。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_npp.png",
     "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases",
-    "mirrorUrl": "https://isimon3.lanzn.com/ilsx146mpi2d"
+    "mirrorUrl": "https://isimon3.lanzn.com/ilsx146mpi2d",
+    "officialUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ilsx146mpi2d"
+      }
+    ]
   },
   {
     "id": "DirectX-a",
@@ -177,7 +310,14 @@
     "description": "DirectX修复工具主要用于修复和补全Windows系统中缺失或损坏的DirectX组件，同时部分增强版还支持C++运行库修复。下载密码：6666",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_DirectX.png",
     "downloadUrl": "https://www.zysoftware.top/post/9.html",
-    "mirrorUrl": "https://isimon3.lanzn.com/iGulj46mwyba"
+    "mirrorUrl": "https://isimon3.lanzn.com/iGulj46mwyba",
+    "officialUrl": "https://www.zysoftware.top/post/9.html",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iGulj46mwyba"
+      }
+    ]
   },
   {
     "id": "Watt Toolkit",
@@ -186,33 +326,61 @@
     "description": "一个开源跨平台的多功能 Steam 工具箱。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_watt.png",
     "downloadUrl": "https://steampp.net/",
-    "mirrorUrl": "https://isimon3.lanzn.com/iQsPI46n0nah"
+    "mirrorUrl": "https://isimon3.lanzn.com/iQsPI46n0nah",
+    "officialUrl": "https://steampp.net/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iQsPI46n0nah"
+      }
+    ]
   },
-    {
+  {
     "id": "QuickLook",
     "name": "QuickLook",
     "category": "效率工具",
     "description": "选中文件，按下空格键，即刻预览。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_QuickLook.png",
     "downloadUrl": "https://github.com/QL-Win/QuickLook/releases",
-    "mirrorUrl": "https://isimon3.lanzn.com/iQ4Wn46n45ad"
+    "mirrorUrl": "https://isimon3.lanzn.com/iQ4Wn46n45ad",
+    "officialUrl": "https://github.com/QL-Win/QuickLook/releases",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iQ4Wn46n45ad"
+      }
+    ]
   },
-    {
+  {
     "id": "PalmInput",
     "name": "手心输入法",
     "category": "效率工具",
     "description": "打字用手心，顺手更顺心。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_PalmInputSetup.png",
     "downloadUrl": "https://www.xinshuru.com/index.html?p=win",
-    "mirrorUrl": "https://isimon3.lanzn.com/i2ljL46n437i"
-  },
+    "mirrorUrl": "https://isimon3.lanzn.com/i2ljL46n437i",
+    "officialUrl": "https://www.xinshuru.com/index.html?p=win",
+    "downloads": [
       {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/i2ljL46n437i"
+      }
+    ]
+  },
+  {
     "id": "ContextMenuManager",
     "name": "右键菜单管理",
     "category": "效率工具",
     "description": "目前Windows上非常好用的右键菜单管理工具。中文界面、操作简单、支持精确到文件类型的菜单管理，还带备份恢复功能。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_ContextMenuManager.png",
     "downloadUrl": "https://bluepointlilac.github.io/ContextMenuManager/",
-    "mirrorUrl": "https://isimon3.lanzn.com/iAjlz46nc9oj"
+    "mirrorUrl": "https://isimon3.lanzn.com/iAjlz46nc9oj",
+    "officialUrl": "https://bluepointlilac.github.io/ContextMenuManager/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iAjlz46nc9oj"
+      }
+    ]
   }
 ]
