@@ -543,5 +543,19 @@
         "url": "https://pan.quark.cn/s/17c860aa1e60"
       }
     ]
+  },
+  {
+    "id": "chrome",
+    "name": "Google Chrome",
+    "category": "浏览器",
+    "description": "谷歌浏览器（Google Chrome）是一款由谷歌公司开发的免费网页浏览器，旨在提供快速、安全、稳定的上网体验。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_96d9c3fccda623824252b260.png",
+    "officialUrl": "https://www.google.com/intl/zh-CN/chrome/",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ijKP647j1g1e"
+      }
+    ]
   }
 ]
