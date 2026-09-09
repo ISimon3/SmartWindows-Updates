@@ -529,5 +529,19 @@
         "url": "https://dldir1.qq.com/tgc/wegame/miniloader/WeGameMiniLoader.std.7.06.27.1446.exe"
       }
     ]
+  },
+  {
+    "id": "Upscay",
+    "name": "Upscay",
+    "category": "效率工具",
+    "description": "Upscyl 是一款功能强大的图像放大工具，它利用先进的 AI 技术来增强您的图像。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_03ad85c80b8c3c60292d35d8.png",
+    "officialUrl": "https://upscayl.org/download",
+    "downloads": [
+      {
+        "name": "夸克网盘",
+        "url": "https://pan.quark.cn/s/17c860aa1e60"
+      }
+    ]
   }
 ]
