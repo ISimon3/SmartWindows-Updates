@@ -515,5 +515,19 @@
         "url": "https://isimon3.lanzn.com/ikplT47iqv7e"
       }
     ]
+  },
+  {
+    "id": "wegame",
+    "name": "wegame",
+    "category": "游戏服务",
+    "description": "腾讯的游戏社交平台与下载中心",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_ddbeeb81535a894ccb7c46a0.png",
+    "officialUrl": "https://www.wegame.com.cn/client/",
+    "downloads": [
+      {
+        "name": "直链下载",
+        "url": "https://dldir1.qq.com/tgc/wegame/miniloader/WeGameMiniLoader.std.7.06.27.1446.exe"
+      }
+    ]
   }
 ]
