@@ -491,8 +491,8 @@
   {
     "id": "pyinstallerpacker",
     "name": "Pyinstaller Packer",
-    "category": "系统维护",
-    "description": "由Simonius开发的一个用于配置和运行 PyInstaller 的 Tauri + Rust 桌面工具。功能包括项目自动识别、PyInstaller 检测与安装、隐藏导入/资源扫描、Windows 版本信息、配置导入导出和实时构建日志。",
+    "category": "开发者项目",
+    "description": "Simonius开发的一个用于配置和运行 PyInstaller 的 Tauri + Rust 桌面工具。功能包括项目自动识别、PyInstaller 检测与安装、隐藏导入/资源扫描、Windows 版本信息、配置导入导出和实时构建日志。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_97a92ff1743d1717e2bd678f.png",
     "officialUrl": "",
     "downloads": [
@@ -505,7 +505,7 @@
   {
     "id": "iconextraction",
     "name": "icon-extraction",
-    "category": "编程工具",
+    "category": "开发者项目",
     "description": "Simonius开发的一款毛玻璃风格的紧凑图标提取工具，简单而实用。",
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_44159cfb47c0b8f5deea6e12.png",
     "officialUrl": "",
