@@ -557,5 +557,19 @@
         "url": "https://isimon3.lanzn.com/ijKP647j1g1e"
       }
     ]
+  },
+  {
+    "id": "Cheat Engine",
+    "name": "Cheat Engine",
+    "category": "游戏服务",
+    "description": "Cheat Engine是一款免费开源的Windows平台游戏内存修改与调试工具，主要用于单机游戏数据修改和逆向工程。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_e4ec9e85f4c370c5d811411d.png",
+    "officialUrl": "",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iquVo47j7jna"
+      }
+    ]
   }
 ]
