@@ -571,5 +571,14 @@
         "url": "https://isimon3.lanzn.com/iquVo47j7jna"
       }
     ]
+  },
+  {
+    "id": "Waterfox",
+    "name": "Waterfox",
+    "category": "浏览器",
+    "description": "Waterfox是一款基于Firefox源码开发的开源浏览器，专注于速度和隐私保护，支持64位系统和Firefox扩展。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_194a70d64e2d5662da753c0d.png",
+    "officialUrl": "https://www.waterfox.com/download/",
+    "downloads": []
   }
 ]
