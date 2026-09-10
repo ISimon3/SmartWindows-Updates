@@ -1,13 +1,13 @@
 {
-  "version": "0.1.11",
-  "name": "SmartWindows v0.1.11",
-  "notes": "软件库支持自定义下载方式名称、数量和顺序；下载菜单与按钮同宽；修复更新软件源可能读取旧缓存的问题。",
-  "releaseUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/tag/v0.1.11",
-  "portableUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.11/SmartWindows.exe",
-  "installerUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.11/SmartWindows-Setup.exe",
+  "version": "0.1.12",
+  "name": "SmartWindows v0.1.12",
+  "notes": "新增跟随主题的小尺寸圆角启动浮窗；修复搜索亮点设置与缺失注册表值读取报错；优化简体中文安装界面。",
+  "releaseUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/tag/v0.1.12",
+  "portableUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.12/SmartWindows.exe",
+  "installerUrl": "https://github.com/ISimon3/SmartWindows-Updates/releases/download/v0.1.12/SmartWindows-Setup.exe",
   "sha256": {
-    "portable": "FB07FDDAED524355C943C1AED1877761825FC9145D46B86B7FC6100F1B2A646A",
-    "installer": "DDFC4D11587D4C5063663B50139EDE715C5F5C9883DBFDBBF91714010B58370E"
+    "portable": "D65E62C74987AB72767C4FD8F1505F757718CAA81D7CF8CBA7F999845952C61E",
+    "installer": "53381718928F9324E0A2059973D20D00CD31E55BEF39357D5E4DF851AF85C6DA"
   },
-  "publishedAt": "2026-09-08T06:28:51.7451903Z"
+  "publishedAt": "2026-09-10T07:29:52.2246105Z"
 }
