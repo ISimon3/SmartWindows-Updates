@@ -580,5 +580,19 @@
     "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_194a70d64e2d5662da753c0d.png",
     "officialUrl": "https://www.waterfox.com/download/",
     "downloads": []
+  },
+  {
+    "id": "shiguang",
+    "name": "拾光dy下载器",
+    "category": "开发者项目",
+    "description": "由Simonius倾力打造，专注于收藏每一份灵感，找到喜欢的作者，把精彩作品留，在本地。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_0784497a5655736e9c91b309.png",
+    "officialUrl": "",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/ilpjd47yj0gb"
+      }
+    ]
   }
 ]
