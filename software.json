@@ -608,5 +608,19 @@
         "url": "https://isimon3.lanzn.com/izNKK48p6awb"
       }
     ]
+  },
+  {
+    "id": "biosjiance",
+    "name": "BIOS品牌检测",
+    "category": "系统维护",
+    "description": "双击运行后窗口即刻显示“电脑品牌、主板型号、BIOS 类型、推荐按键”四项信息，并用高亮色标出对应的“BIOS Setup”和“Boot Menu”键，一眼就能分辨。",
+    "icon": "https://raw.githubusercontent.com/ISimon3/SmartWindows-Updates/main/software-icons/icon_a37933819ff8ae8375a01cb6.png",
+    "officialUrl": "",
+    "downloads": [
+      {
+        "name": "蓝奏云",
+        "url": "https://isimon3.lanzn.com/iLjdd49dvoyb"
+      }
+    ]
   }
 ]
